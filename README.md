@@ -1,7 +1,7 @@
 # College_ML_Lab
 
 
-## 🗓️ 4th July 2025 — Housing Price Prediction with Linear Regression
+##  4th July 2025 — Housing Price Prediction with Linear Regression
 
 - **Objective:** Predict housing prices using basic linear regression.
 - **Dataset:** Real estate dataset featuring variables like square footage, number of bedrooms, etc.
