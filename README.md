@@ -25,6 +25,15 @@
 ---
 18th July 2025- Dealing with Null Values & filling them properly 
 
+**Data Preprocessing**  
+   - Loads dataset (assumed CSV format)  
+   - Handles missing values  
+Implementation of
+IQR = Q3-  Q1
+Lower Bound: Q1-1.5*IQR
+UPPER Bound: Q3+
+---
+
 
  Author: [IAMNISHANTSHUKLA](https://github.com/IAMNISHANTSHUKLA)
 
