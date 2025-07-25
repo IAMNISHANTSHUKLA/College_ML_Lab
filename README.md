@@ -33,6 +33,11 @@ IQR = Q3-  Q1
 Lower Bound: Q1-1.5*IQR
 UPPER Bound: Q3+
 ---
+# 25th July - 2025 - Principal Component Analysis (PCA) on 3D Dataset
+
+This script demonstrates a basic implementation of **Principal Component Analysis (PCA)** on a synthetic 3D dataset. It Creates a synthetic dataset with 10 samples and 3 features (`X`, `Y`, `Z`).
+Then, standardizes the dataset to zero mean and unit variance.Computes the covariance matrix and extracts eigenvalues/eigenvectors. Selects the top 2 principal components for dimensionality reduction.
+Projects the 3D data into 2D and visualizes it using a scatter plot.
 
 
  Author: [IAMNISHANTSHUKLA](https://github.com/IAMNISHANTSHUKLA)
